@@ -1,0 +1,9 @@
+<resources>
+	<string name="contact_name">Name</string>
+	<string name="contact_relation">Relation</string>
+	<string name="contact_phonenumber">PhoneNumber</string>
+	<string name="contact_address">Address</string>
+	<string name="contact_email">Email</string>
+	<string name="contact_image">Image</string>
+	<string name="desc">This is a doctor image</string>
+</resources>
